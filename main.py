@@ -4,7 +4,7 @@ import cv2
 # Load the Cascade Classifier
 face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
-# for Video File
+# For Video Filep
 cap = cv2.VideoCapture('Face.mp4')
 # startt  web cam
 # cap = cv2.VideoCapture(0)
